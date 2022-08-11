@@ -1,6 +1,6 @@
 ### Hello world! I'm Éléonore 👋
 
-✨ After 5 years of experience as an UI/UX Designer I'm learning how to code. I'm currently looking for a 3 up to 6 months internship in Web developpement 🇫🇷 .
+✨ After 5 years of experience as an UI/UX Designer I'm learning how to code. I'm currently looking for a 16 months internship in Web developpement 🇫🇷 .
 
 
 - 😄 My Pronouns: She/Her  
