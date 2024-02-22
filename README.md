@@ -1,12 +1,12 @@
 ### Hello world! I'm Éléonore 👋
 
-✨ After 5 years of experience as an UI/UX Designer I'm learning how to code.
+✨ After 5 years of experience as an UI/UX Designer I'm switching to web developement.
 
 
 - 😄 My Pronouns: She/Her  
-- 🌱 I’m currently learning the basics of web developpment thanks to **O'clock**
+- 🌱 I just graduated from a bachelor equivalent in web developpment thanks to **O'clock school**
 - ⚙️ I use daily:  `.html`, `.css`, `.php`, `.js`, `.xd`, `.psd`, `.ai`, `.fig`
-- 💬 Ask me about: UI/UX design 
+- 💬 Ask me about: UI/UX design, accessibility, front-end 
 - 📫 How to reach me: [on linkedin](https://linkedin.com/in/eleonore-euzenes) or [on twitter](https://twitter.com/eeloneor)
 - ⚡ Fun fact: I like modern embroidery, enjoy cooking, will say yes to any pet sitting offers and on sunday afternoon you'll find me watching F1
 
