@@ -10,7 +10,6 @@
 - 🌱 **Currently Learning**: Angular and Java
 - 🔭 **Current Project**: Working on a [Secret Santa Generator](https://github.com/eleonoreeuzenes/secret-santa)
 - 👯 **Looking to Collaborate**: On an ecological social media mobile app called [Ecogest](https://github.com/Eco-Gest/Frontend-Flutter)
-- 📫 **How to Reach Me**: [LinkedIn](https://linkedin.com/in/eleonore-euzenes) or [Twitter](https://twitter.com/eeloneor)
 - ⚡ **Fun Fact**: I love modern embroidery, enjoy cooking, never say no to pet sitting, and on Sunday afternoons, you’ll find me watching F1.
 
 ## 🔨 Language and tools
