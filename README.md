@@ -30,6 +30,7 @@
 ### I have worked with  
 ![Static Badge](https://img.shields.io/badge/Vue.js-%23000?logo=vuedotjs)
 ![Static Badge](https://img.shields.io/badge/Wordpress-%23000?logo=wordpress)
+![Static Badge](https://img.shields.io/badge/Python-%23000?logo=python)
 ![Static Badge](https://img.shields.io/badge/Bootstrap-%23000?logo=bootstrap)
 ![Static Badge](https://img.shields.io/badge/MySQL-%23000?logo=mysql)
 ![Static Badge](https://img.shields.io/badge/MariaDB-%23000?logo=mariadb)
@@ -47,3 +48,5 @@
 ## 📫 How to reach me
 [![Static Badge](https://img.shields.io/badge/Linkedin-%230A66C2?logo=linkedin)](https://www.linkedin.com/in/eleonore-euzenes/)
 [![Static Badge](https://img.shields.io/badge/Behance-%231769FF?logo=behance)](https://www.behance.net/eleonoreeuzenes)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=eleonoreeuzenes&theme=dark)](https://git.io/streak-stats)
