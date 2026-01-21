@@ -8,7 +8,6 @@
 - 😄 **Pronouns**: She/Her  
 - 👩🏻‍🎓 **Preparing a Master degree**: I just started a master's-equivalent in web development at **ENI School**
 - 🌱 **Currently Learning**: Angular and Java
-- 🔭 **Current Project**: Working on a 
 - 👯 **Looking to Collaborate**: On an ecological social media mobile app called [Ecogest](https://github.com/Eco-Gest/Frontend-Flutter)
 - ⚡ **Fun Fact**: I love modern embroidery, enjoy cooking, never say no to pet sitting, and on Sunday afternoons, you’ll find me watching F1.
 
