@@ -19,8 +19,6 @@
 ![Static Badge](https://img.shields.io/badge/Typescript-%23000000?logo=typescript)
 ![Static Badge](https://img.shields.io/badge/TailwindCSS-%23000000?logo=tailwindcss)
 ![Static Badge](https://img.shields.io/badge/Docker-%23000000?logo=docker)
-![Static Badge](https://img.shields.io/badge/Flutter-%23000000?logo=flutter)
-![Static Badge](https://img.shields.io/badge/Laravel-%23000000?logo=laravel)
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-%23000?logo=postgresql)
 
 
@@ -35,6 +33,8 @@
 ![Static Badge](https://img.shields.io/badge/Express-%23000000?logo=express)
 ![Static Badge](https://img.shields.io/badge/Nodejs-%23000000?logo=nodedotjs)
 ![Static Badge](https://img.shields.io/badge/GraphQL-%23000000?logo=graphql)
+![Static Badge](https://img.shields.io/badge/Flutter-%23000000?logo=flutter)
+![Static Badge](https://img.shields.io/badge/Laravel-%23000000?logo=laravel)
 
 
 ### UI/UX Design
